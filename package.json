@@ -1,0 +1,19 @@
+{
+  "name": "mocha-experiment",
+  "version": "1.0.0",
+  "description": "Mocha experiment",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smipi1/mocha-experiment.git"
+  },
+  "author": "Pieter Smith <pieter@boesman.nl> (https://github.com/smipi1)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smipi1/mocha-experiment/issues"
+  },
+  "homepage": "https://github.com/smipi1/mocha-experiment#readme"
+}
